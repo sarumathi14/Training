@@ -1,0 +1,6 @@
+2025-03-26 20:22:42,089 - Processor-house_prices.csv - INFO - Processor-house_prices.csv: Starting processing data/house_prices.csv
+2025-03-26 20:22:42,092 - Processor-house_prices.csv - ERROR - Processor-house_prices.csv: Error processing data/house_prices.csv - [Errno 2] No such file or directory: 'data/house_prices.csv'
+2025-03-26 20:22:42,191 - Processor-sales_data.csv - INFO - Processor-sales_data.csv: Starting processing data/sales_data.csv
+2025-03-26 20:22:42,193 - Processor-sales_data.csv - ERROR - Processor-sales_data.csv: Error processing data/sales_data.csv - [Errno 2] No such file or directory: 'data/sales_data.csv'
+2025-03-26 20:22:42,293 - MainThread - WARNING - Failed to process data/house_prices.csv: [Errno 2] No such file or directory: 'data/house_prices.csv'
+2025-03-26 20:22:42,293 - MainThread - WARNING - Failed to process data/sales_data.csv: [Errno 2] No such file or directory: 'data/sales_data.csv'
